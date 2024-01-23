@@ -1,4 +1,4 @@
-<div align="left"><p><a href="https://sectorz.dev"><img alt="New Detective Theme" align="center" src="https://img.shields.io/badge/%F0%9F%95%B5%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8FNewThemes!?colorA=595959&colorB=5c5c5c&style=flat" /></a>&nbsp; <strong>NEW:</strong> Detective Light and Dark Themes! <code>BETA</code>
+<div align="left"><p><a href="https://sectorz.dev"><img alt="New Detective Theme" align="center" src="https://img.shields.io/badge/%F0%9F%95%B5%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F-New%20Detective%20Themes-New?style=flat&labelColor=%232b2b2b&color=%23595959" /></a>&nbsp; <strong>NEW:</strong> Detective Light and Dark Themes! <code>BETA</code>
 </p></div>
 
 <div align="center">
@@ -9,9 +9,6 @@
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/sectorz.noir-vs-code-theme?label=Downloads&colorA=2b2b2b&colorB=474747)]
 [![rating](https://img.shields.io/visual-studio-marketplace/r/sectorz.noir-vs-code-theme?label=Ratings&colorA=2b2b2b&colorB=474747)]
 [![installs](https://img.shields.io/visual-studio-marketplace/i/sectorz.noir-vs-code-theme?label=Installs&colorA=2b2b2b&colorB=474747)]
-
-
-<a align="center" href="https://VSCode.pro/?utm_source=sop"><img align="center" src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1_sop.gif" /></a>
 
 </div>
 
