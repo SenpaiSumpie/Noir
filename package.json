@@ -1,21 +1,38 @@
 {
-  "name": "noir",
-  "displayName": "Noir",
-  "description": "Detective Inspired VS Code Color Theme",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.85.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Noir",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Noir-color-theme.json"
-      }
-    ]
-  }
+	"name": "noir-vs-code-theme",
+	"displayName": "Noir VS Code Theme",
+	"description": "🕵🏻 Detective Noir Inspired VS Code Color Theme. Ever want to feel like you're in a detective movie? Look no further!",
+	"version": "1.0.0",
+	"license": "MIT",
+	"icon": "images/icon/noir.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SenpaiSumpie/Noir"
+	},
+	"publisher": "SectorZ",
+	"engines": {
+		"vscode": "^1.85.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Noir",
+		"Detective",
+		"Dark Theme"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Noir Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Noir-dark-color-theme.json"
+			},
+			{
+				"label": "Noir Light",
+				"uiTheme": "vs",
+				"path": "./themes/Noir-light-color-theme.json"
+			}
+		]
+	}
 }
