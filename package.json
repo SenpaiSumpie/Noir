@@ -2,7 +2,7 @@
 	"name": "noir-vs-code-theme",
 	"displayName": "Noir VS Code Theme",
 	"description": "🕵🏻 Detective Noir Inspired VS Code Color Theme. Ever want to feel like you're in a detective movie? Look no further!",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"license": "MIT",
 	"icon": "images/icon/noir.png",
 	"repository": {
