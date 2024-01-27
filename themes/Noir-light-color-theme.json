@@ -1764,6 +1764,8 @@
 		"list.highlightForeground": "#000000",
 		"list.focusBackground": "#d7d7d7",
 		"list.focusForeground": "#616161",
+		"list.errorForeground": "#ff4545",
+		"list.warningForeground": "#ffd95d",
 		"listFilterWidget.background": "#d5d5d5",
 		"listFilterWidget.outline": "#00000000",
 		"listFilterWidget.noMatchesOutline": "#b8b8b8",

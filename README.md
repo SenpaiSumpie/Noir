@@ -14,13 +14,5 @@
 
 <br>
 
-<div align="center">
-<strong><code>🕵🏻‍♀️ Noir </code></strong><br />
-    <span>
-        Noir sports a dark, minimalistic look with a touch of elegance. Its elegant black and white color palette ensures that the
-        essentials shine through with subtle yet effective highlighting.
-    </span>
-</div>
-
 ## Noir's Purpose
  After years in the coding trenches, surrounded by a sea of color themes, I found myself lost in the hunt for the perfect one. It hit me like a plot twist in a noir thriller: all those colors were just a distraction, masking the true essence of the code. That's when the desire for a black and white theme, a theme that cuts through the smoke and mirrors, took root. But my search yielded nothing but empty leads. So, I took matters into my own hands, crafting a new theme with black and white as its foundation, like the stark contrast between light and shadow in a gritty detective story, and injecting color only where it truly matters. 🕵️‍♀️🔍🎬
